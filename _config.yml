@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
-title: Wisconsin Autonomous
-description: Wisconsin Autonomous is a student organization at the University of Wisconsin - Madison.
-logo: https://github.com/WisconsinAutonomous/wa-resources/blob/master/Images/WA.png?raw=true
+theme: jekyll-theme-tactile
+title: Wisconsin Autonomous Wiki
+Description: Documentation for various projects for the Wisconsin Autonomous Student Organization
