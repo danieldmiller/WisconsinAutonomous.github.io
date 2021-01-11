@@ -27,7 +27,7 @@ JupyterHub (and Jupyter in general) has a server based design. A server is respo
 
 ### Initializing an SSH Tunnel
 
-For you to be able to visualize JupyterHub in your browser, your computer needs to know that there is a JupyterHub instance running on the workstation. This can be done through something called an SSH Tunnel. Please see [this](/wa_wiki/technical/SSH.html) readme for information about SSH and SSH Tunneling.
+For you to be able to visualize JupyterHub in your browser, your computer needs to know that there is a JupyterHub instance running on the workstation. This can be done through something called an SSH Tunnel. Please see [this](/posts/ssh) readme for information about SSH and SSH Tunneling.
 
 Jupyter is run on port `8000`, so you must forward that port to your own computer. In theory, you can map `8000` to any port you'd like, but we'll leave it at `8000` for simplicity. Your command may look something like this:
 ```bash
@@ -59,7 +59,7 @@ c.Spawner.default_url = '/tree'
 
 To have JupyterHub run on startup, a system service used and run by [Systemd](https://man7.org/linux/man-pages/man1/systemd.1.html). The `.service` file is located at `/opt/jupyterhub/etc/systemd/jupyterhub.service`. There shouldn't be much to change here, but this basically just runs JupyterHub and loads in the config file we created.
 
-[Anaconda](https://docs.conda.io/en/latest/) was used for managing different Python environments. Anaconda is managed using modulefiles, of which we wrote a [readme about](/wa_wiki/technical/Modules.html). The location of the `conda` environments deviates from the original guide because of the `modulefile` management system. A default `conda` environment was made with only a few packages. Since it is a global install, `pip install` or `conda install` isn't allowed. Instead, users should create their own conda environment to have custom installs.
+[Anaconda](https://docs.conda.io/en/latest/) was used for managing different Python environments. Anaconda is managed using modulefiles, of which we wrote a [post about](/posts/modules). The location of the `conda` environments deviates from the original guide because of the `modulefile` management system. A default `conda` environment was made with only a few packages. Since it is a global install, `pip install` or `conda install` isn't allowed. Instead, users should create their own conda environment to have custom installs.
 
 Furthermore, located within the `jupyterhub_config.py`, the `autonomous-sudo` user group has been configured as admins of the JupyterHub instance.
 
@@ -69,7 +69,7 @@ Furthermore, located within the `jupyterhub_config.py`, the `autonomous-sudo` us
 
 ## Support
 
-Contact [Aaron Young](aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
+Contact [Aaron Young](mailto:aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
 
 ## See Also
 

@@ -7,7 +7,7 @@ tags: [tutorials, communication, non-technical]
 ---
 
 #### Step 1
-[Join our Slack group](/wa_wiki/fundamentals/joining-the-wa-slack-group.html).
+[Join our Slack group](/posts/slack-group).
 
 #### Step 2
 Message a leader that will have administrative rights to the organization. Good bets would be Aaron Young or Alex Pletta.

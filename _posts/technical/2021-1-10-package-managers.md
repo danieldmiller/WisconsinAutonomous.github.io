@@ -41,7 +41,7 @@ Homebrew has been made to be really simple to install. To install homebrew, you 
 
 `brew` has multiple helpful commands to install, update or configure your machine. A few of the most useful ones will be described below.
 
-- `brew install` is used (as its name suggests) to install packages. For example, to install `git`, which is a version control tool [(we wrote a README on it)](/wa_wiki/technical/Git.html), you would run `brew install git`.
+- `brew install` is used (as its name suggests) to install packages. For example, to install `git`, which is a version control tool [(we wrote a README on it)](/posts/git), you would run `brew install git`.
 
 - `brew install --cask` is a special install command that allows you to install larger, UI based applications. To install firefox, you would need to run `brew install --cask firefox`.
 
@@ -62,7 +62,7 @@ The [homebrew](https://brew.sh/) is really helpful for checking available packag
 
 ## Support
 
-Contact [Aaron Young](aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
+Contact [Aaron Young](mailto:aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
 
 ## See Also
 
@@ -70,4 +70,5 @@ Stay up to date with our technical info by following our [blog](https://www.wisc
 
 Follow us on [Facebook](https://www.facebook.com/wisconsinautonomous/), [Instagram](https://www.instagram.com/wisconsinautonomous/), and [LinkedIn](https://www.linkedin.com/company/wisconsin-autonomous/about/)!
 
-<img src="https://github.com/WisconsinAutonomous/wa-resources/blob/master/Images/WA.png?raw=true" alt="Wisconsin Autonomous Logo" height="100px">  <img src="https://github.com/WisconsinAutonomous/wa-resources/blob/master/Images/UWCrest.png?raw=true" alt="University of Wisconsin - Madison Crest" height="100px" align="right">
+![WA Logo](/assets/img/logos/wa-white.png){: .left height="100"}
+![Wisconsin Crest](/assets/img/logos/uw-crest.png){: .right height="100"}
