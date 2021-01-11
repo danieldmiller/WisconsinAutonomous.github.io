@@ -1,7 +1,7 @@
 ---
-title: About
-icon: fas fa-info
-order: 5
+title: Documentation
+icon: fas fa-book
+order: 1
 
 # The About page
 # v2.0
@@ -10,7 +10,8 @@ order: 5
 # MIT License
 ---
 
-Wisconsin Autonomous is a student organization at the University of Wisconsin - Madison. We are focused on the development autonomous racing vehicles for international competitions.
+Checkout the documentation for the following repo(s):
+- [wa_simulator docs](https://WisconsinAutonomous.github.io/wa_simulator)
 
 ## Support
 
