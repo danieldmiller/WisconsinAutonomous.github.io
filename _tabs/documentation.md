@@ -15,7 +15,7 @@ Checkout the documentation for the following repo(s):
 
 ## Support
 
-Contact [Aaron Young](aryoung5@wisc.edu) for any questions or concerns regarding the contents of this site.
+Contact [Aaron Young](mailto:aryoung5@wisc.edu) for any questions or concerns regarding the contents of this site.
 
 ## See Also
 

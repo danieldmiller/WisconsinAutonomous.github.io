@@ -19,7 +19,7 @@ are explained, along with their setup and use. Additional package managers may b
 	- [See Also](#homebrew-see-also)
 - [Chocolatey](#chocolatey)
 	- [Setup Guide](#chocolatey-setup-guide)
-	- [Usage](#chocolateyusage)
+	- [Usage](#chocolatey-usage)
 	- [See Also](#chocolatey-see-also)
 - [Support](#support)
 - [See Also](#see-also)
