@@ -3,7 +3,7 @@ title: Package Managers
 author: Aaron Young
 date: 2021-01-10 18:34:00 -0600
 categories: [Technical, Miscellaneous]
-tags: [tutorials, technical]
+tags: [technical]
 ---
 
 A package manager is a software tool that automates installing, upgrading, configuring and removing computer programs consistently and reliably. In most applications, package managers are non-graphical tools.
@@ -33,7 +33,7 @@ are explained, along with their setup and use. Additional package managers may b
 
 Homebrew has been made to be really simple to install. To install homebrew, you need to download an installation script from the internet. The following command will download the script using `curl` and then install `brew`.
 
-```bash
+```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 

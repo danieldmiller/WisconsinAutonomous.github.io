@@ -10,8 +10,6 @@ tags: [tutorials, workstation, technical]
 
 We foresee much of our development to be done through JupyterHub as it is simple to use, scalable and functions well for multiple use cases.
 
-_Last Update_: Friday, December 18th, 2020
-
 ## Table of Contents
 - [Setup Guide](#setup-guide)
   - [Initializing an SSH Tunnel](#initializing-an-ssh-tunnel)
@@ -30,7 +28,7 @@ JupyterHub (and Jupyter in general) has a server based design. A server is respo
 For you to be able to visualize JupyterHub in your browser, your computer needs to know that there is a JupyterHub instance running on the workstation. This can be done through something called an SSH Tunnel. Please see [this](/posts/ssh) readme for information about SSH and SSH Tunneling.
 
 Jupyter is run on port `8000`, so you must forward that port to your own computer. In theory, you can map `8000` to any port you'd like, but we'll leave it at `8000` for simplicity. Your command may look something like this:
-```bash
+```shell
 ssh -L 8000:localhost:8000 -J <cae username>@best-tux.cae.wisc.edu <cae username>@carproject-06.engr.wisc.edu
 ```
 

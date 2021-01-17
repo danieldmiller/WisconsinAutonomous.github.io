@@ -45,7 +45,7 @@ This is a template for a new post for this site. Feel free to copy this markdown
 
 ## Support
 
-Contact [Your Name](wiscid@wisc.edu) for any questions or concerns regarding the contents of this site.
+Contact [Your Name](wiscid@wisc.edu) for any questions or concerns regarding the contents of this post.
 
 ## See Also
 
@@ -79,7 +79,7 @@ This is a template for a new post for this site. Feel free to copy this markdown
 
 ## Support
 
-Contact [Your Name](wiscid@wisc.edu) for any questions or concerns regarding the contents of this site.
+Contact [Your Name](wiscid@wisc.edu) for any questions or concerns regarding the contents of this post.
 
 ## See Also
 
