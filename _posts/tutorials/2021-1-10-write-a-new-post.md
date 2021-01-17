@@ -6,6 +6,8 @@ categories: [Introduction, Wiki Tutorials]
 tags: [tutorials, non-technical]
 ---
 
+_This post was primarily done by Cotes Chung, the creator of the Chirpy template we use for this website_.
+
 ## Template
 For convenience, we have provided a template markdown file you can use a starting point for your post. Please see [this post](/posts/post-template) if you want to start from there.
 

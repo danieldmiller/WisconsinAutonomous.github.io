@@ -61,7 +61,7 @@ If you have a CAE account, no need to read this section. For those of you withou
 
 ## Support
 
-Contact [Aaron Young](aryoung5@wisc.edu) for any questions or concerns regarding the contents of this post.
+Contact [Aaron Young](mailto:aryoung5@wisc.edu) for any questions or concerns regarding the contents of this post.
 
 ## See Also
 

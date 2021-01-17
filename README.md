@@ -10,7 +10,7 @@ Wisconsin Autonomous specific content is made available under the BSD-3 License.
 
 ## Support
 
-Contact [Aaron Young](aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
+Contact [Aaron Young](mailto:aryoung5@wisc.edu) for any questions or concerns regarding the contents of this repository.
 
 ## See Also
 
