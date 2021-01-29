@@ -6,7 +6,7 @@ categories: [Technical, Workstation]
 tags: [tutorials, technical, workstation]
 ---
 
-Please see [this post](/posts/work-station-info) for more info on the workstation.
+Please see [this post](/posts/work-station-info) for more background information on the workstation.
 
 ## Use Guidelines
 
@@ -14,7 +14,7 @@ The computer was built so that many people could use it at the same time. When u
 
 ## User Setup
 
-As mentioned earlier, user accounts are created via CAE's user system. This means your login and user name is configured directly from your CAE account. For those of you already in the College of Engineering, just use your already made account. If you are in a different school or don't have a CAE account, [please see below](#cae-account).
+User accounts are created via CAE's user system. This means your login and user name is configured directly from your CAE account. For those of you already in the College of Engineering, just use your already made account. If you are in a different school (i.e. Letters and Sciences) or don't have a CAE account, [please see below](#cae-account).
 
 Once you have a CAE account, you can register your wisc id with team leaders to gain access. This was done so that only team members can login to the computer. Message your team leader on Slack and we'll give you access!!
 

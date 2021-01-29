@@ -2,8 +2,8 @@
 title: Joining the WA Github Org
 author: Aaron Young
 date: 2021-01-10 18:39:00 -0600
-categories: [Fundamentals, Communication]
-tags: [tutorials, communication, non-technical]
+categories: [Fundamentals, Setup]
+tags: [tutorials, setup, non-technical]
 ---
 
 #### Step 1
