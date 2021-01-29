@@ -33,7 +33,7 @@ We didn't skimp on our computer components. We spent quite a bit on parts so tha
 
 As stated earlier, we aimed for stable and easy to use software that means less problems and more development. As a result, the chosen operating system was a Linux distribution named `Ubuntu`. As the primary operating system, this would allow us to use common remote workstation paradigms such as `SSH` and `VNC`. Linux is a common operating system for programming development because of its modularity. It is also the OS we use on our vehicles. As opposed to other Linux distributions, such as `CentOS` or `Fedora`, `Ubuntu` is known to be well supported and is extremely popular.
 
-Within the `Ubuntu` operating system, there are many custom configurations that were chosen to maximize modularity and ease of use. As explained in [a later section](#cae-account), users are configured via COE's automatic systems. This means you do not need to create a new username and password, you can just use the CAE account you already have. Another software selection that was made was the use of `modulefiles`. A [post](/posts/modules) was done explaining the details of `modulefiles`.
+Within the `Ubuntu` operating system, there are many custom configurations that were chosen to maximize modularity and ease of use. As explained in [this post](/posts/ssh/#work-station-setup), users are configured via COE's automatic systems. This means you do not need to create a new username and password, you can just use the CAE account you already have. Another software selection that was made was the use of `modulefiles`. A [post](/posts/modules) was done explaining the details of `modulefiles`.
 
 ## Support
 
