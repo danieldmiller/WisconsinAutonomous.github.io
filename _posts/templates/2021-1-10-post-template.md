@@ -35,11 +35,6 @@ The title of the post will be automatically set by your `Front Matter`.
 ```markdown
 This is a template for a new post for this site. Feel free to copy this markdown directly to your new file.
 
-## Table of Contents
-- [Setup Guide](#setup-guide)
-- [Support](#support)
-- [See Also](#see-also)
-
 ## Setup Guide
 
 
@@ -68,11 +63,6 @@ tags: [tutorials, templates, non-technical]
 ---
 
 This is a template for a new post for this site. Feel free to copy this markdown directly to your new file.
-
-## Table of Contents
-- [Setup Guide](#setup-guide)
-- [Support](#support)
-- [See Also](#see-also)
 
 ## Setup Guide
 
