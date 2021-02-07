@@ -9,7 +9,7 @@ tags: [tutorials, templates, non-technical]
 This post is supposed to help expedite the post making process. Feel free to copy the [Front Matter](#front-matter) and the [Markdown Content](#markdown-content) directly into your new post.
 
 ## Writing a New Post
-To understand the syntax behind Markdown and how your posts are displayed on the site, head over to [this post](/posts/write-a-new-post).
+To understand the syntax behind Markdown and how your posts are displayed on the site, head over to [this post](/posts/post-markdown-overview).
 
 ## Creating the Post
 Create your file under `_posts/<folder>` where `<folder>` is a folder that best describes the content of the post. If there is no folder that matches your content best, feel free to make a new one. 

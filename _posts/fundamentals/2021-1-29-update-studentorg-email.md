@@ -7,7 +7,6 @@ tags: [tutorials, work station, non-technical]
 ---
 
 This guide is to help document how to add or remove users to the `wisconsinautonomous@studentorg.wisc.edu` shared email. In order to update the users, you have to already have access. To check if you have access, go to [this section](#verify-access).
-
 ### Login to the Admin Site
 
 Go to [https://email.wisc.edu/admin/](https://email.wisc.edu/admin/). Login with your UW credentials. You should see something similar to the following.
@@ -37,6 +36,12 @@ Finally, you should a page similar to this where you can add or remove accounts.
 Changes may take a few hours to a few days to take effect. To verify the account was added, go to [https://my.wisc.edu/web/expanded](https://my.wisc.edu/web/expanded). You should see an email card similar to the one below. A drop down menu should be available with your personal email and the `wisconsinautonomous@studentorg.wisc.edu` email. If that's the case, you're all set!
 
 ![MyUW Verification](/assets/img/fundamentals/myuw_email_dropdown.png){: .center}
+
+## Troubleshooting
+
+### No "Add" Button
+
+This means you are not an administrator of the account. Please reach out to team leaders to gain such access.
 
 ## Support
 
